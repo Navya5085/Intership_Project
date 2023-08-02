@@ -1,1 +1,1 @@
-# Intership_Project
+Price forecasting is one of the major issues in the Indian market, even the former has struggled a lot for a year to grow the crops but in the end, he fails to get the proper rate for this yield. Due to market fluctuations, he ends up losing the money. To help them by using a machine learning model, I have predicted the price and forecast it for the future so that he can sell at a better price. By collecting datasets from the Indian market. I have used the KNN model which will give good accuracy and predict future prices.
