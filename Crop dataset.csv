@@ -1,0 +1,630 @@
+Crops,Varieties,Season,Growth,Harvest,Market,District,Day,Month,Year,Min Price(Rs./Quintal),Max Price(Rs./Quintal),Modal Price(Rs./Quintal)
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,2,November,2020,1340,1440,1400
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,3,November,2020,1346,1466,1400
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,4,November,2020,1266,1460,1333
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,5,November,2020,1281,1693,1460
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,6,November,2020,1400,1449,1433
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,7,November,2020,1266,1568,1426
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,9,November,2020,1266,1960,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,10,November,2020,1306,1789,1440
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,11,November,2020,1266,1446,1320
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,12,November,2020,1266,1840,1426
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,13,November,2020,1213,1533,1480
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,17,November,2020,1266,1666,1480
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,18,November,2020,1374,1533,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,19,November,2020,1333,1533,1493
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,20,November,2020,1333,1675,1546
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,21,November,2020,1333,1533,1400
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,23,November,2020,1333,1533,1400
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,24,November,2020,1360,1536,1400
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,25,November,2020,1360,1596,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,26,November,2020,1340,1537,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,27,November,2020,1360,1573,1433
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,30,November,2020,1333,1533,1400
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,1,December,2020,1358,1517,1426
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,2,December,2020,1306,1533,1400
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,4,December,2020,1333,1533,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,5,December,2020,1333,1666,1440
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,7,December,2020,1386,1680,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,8,December,2020,1320,1589,1440
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,9,December,2020,1333,1597,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,10,December,2020,1333,1553,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,11,December,2020,1333,1604,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,14,December,2020,1333,1593,1433
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,15,December,2020,1360,1601,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,16,December,2020,1333,1666,1493
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,17,December,2020,1333,1733,1467
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,18,December,2020,1306,1613,1466
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,19,December,2020,1393,1706,1493
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,21,December,2020,1380,1720,1553
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,22,December,2020,1333,1733,1480
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,23,December,2020,1358,1594,1480
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,24,December,2020,1346,1706,1600
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,28,December,2020,1420,1713,1586
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,29,December,2020,1535,1725,1600
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,30,December,2020,1400,1706,1653
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,31,December,2020,1528,1720,1600
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,12,November,2021,1666,1666,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,15,November,2021,1600,1773,1680
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,16,November,2021,1600,1694,1673
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,17,November,2021,1560,1800,1680
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,18,November,2021,1600,1694,1673
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,19,November,2021,1666,1720,1720
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,20,November,2021,1600,1866,1733
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,23,November,2021,1600,1868,1700
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,24,November,2021,1602,1681,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,25,November,2021,1600,1893,1733
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,26,November,2021,1623,2040,2000
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,29,November,2021,1587,2008,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,30,November,2021,1467,1933,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,1,December,2021,1573,1809,1693
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,2,December,2021,1580,1808,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,3,December,2021,1600,1760,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,4,December,2021,1587,2019,1933
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,6,December,2021,1600,1936,1733
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,7,December,2021,1628,1933,1700
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,8,December,2021,1600,1740,1693
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,9,December,2021,1600,1849,1761
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,10,December,2021,1580,1936,1733
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,13,December,2021,1520,1997,1800
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,14,December,2021,1533,1947,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,15,December,2021,1400,1840,1673
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,16,December,2021,1547,1969,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,17,December,2021,1567,1784,1653
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,18,December,2021,1607,1795,1686
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,20,December,2021,1600,1800,1680
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,21,December,2021,1587,2000,1666
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,22,December,2021,1613,1879,1720
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,23,December,2021,1600,1904,1706
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,24,December,2021,1540,2040,1713
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,27,December,2021,1600,1812,1800
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,28,December,2021,1553,1840,1720
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,29,December,2021,1613,2000,1800
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,30,December,2021,1627,1933,1733
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,31,December,2021,1627,1852,1680
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,2,November,2022,1866,2026,1985
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,3,November,2022,2000,2120,2086
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,4,November,2022,1913,1913,1913
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,5,November,2022,2000,2120,2066
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,7,November,2022,1987,2107,2066
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,8,November,2022,1800,2067,1994
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,9,November,2022,2013,2107,2086
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,10,November,2022,2000,2133,2053
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,14,November,2022,1933,2160,2086
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,15,November,2022,2000,2093,2053
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,16,November,2022,1940,2080,1973
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,17,November,2022,1940,2107,2066
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,19,November,2022,1987,2100,2042
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,21,November,2022,2000,2133,2080
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,22,November,2022,1973,2232,2066
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,23,November,2022,1933,2139,2086
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,24,November,2022,2013,2200,2133
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,25,November,2022,1933,2215,2120
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,28,November,2022,1867,2129,1980
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,29,November,2022,1867,2104,2020
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,30,November,2022,1920,2120,2000
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,1,December,2022,1973,2200,2040
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,2,December,2022,1948,2067,2067
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,3,December,2022,1961,2033,2020
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,5,December,2022,1933,2120,2073
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,6,December,2022,1973,2227,2073
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,7,December,2022,1947,2120,2026
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,8,December,2022,2000,2180,2133
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,9,December,2022,2047,2267,2080
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,12,December,2022,2000,2227,2133
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,13,December,2022,1900,2140,2080
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,14,December,2022,2000,2180,2100
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,15,December,2022,2020,2140,2080
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,16,December,2022,1947,2200,2100
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,17,December,2022,2093,2317,2120
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,19,December,2022,2027,2253,2106
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,20,December,2022,2080,2267,2173
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,21,December,2022,2027,2267,2133
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,22,December,2022,2000,2304,2140
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,23,December,2022,2000,2336,2133
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,26,December,2022,2000,2304,2200
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,27,December,2022,2000,2300,2160
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,28,December,2022,2067,2373,2200
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,29,December,2022,2000,2333,2160
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,30,December,2022,2093,2351,2133
+Paddy,Sona Masuri New,Kharif,June-July,October-November,Gangavati,Koppal,31,December,2022,2000,2200,2109
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,2,June,2020,1400,2000,1700
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,3,June,2020,1650,1950,1650
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,4,June,2020,1740,1950,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,5,June,2020,1800,2200,2200
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,6,June,2020,1800,2200,2200
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,8,June,2020,1700,1900,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,10,June,2020,1800,1800,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,11,June,2020,1750,1750,1750
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,12,June,2020,1600,1870,1870
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,13,June,2020,1500,1950,1500
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,16,June,2020,1750,1800,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,17,June,2020,1800,1950,1850
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,18,June,2020,1800,1800,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,19,June,2020,1430,1850,1500
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,20,June,2020,1600,1950,1850
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,22,June,2020,1650,1850,1650
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,23,June,2020,1800,1800,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,24,June,2020,1600,1850,1600
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,25,June,2020,1900,1900,1900
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,27,June,2020,1500,2200,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,29,June,2020,1500,1750,1750
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,30,June,2020,1600,1850,1850
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,6,July,2020,1650,1800,1700
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,9,July,2020,1600,1600,1600
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,13,July,2020,1600,2200,2200
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,15,July,2020,1600,1900,1900
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,16,July,2020,1900,1900,1900
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,17,July,2020,1700,1850,1850
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,20,July,2020,1725,2200,2200
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,21,July,2020,1870,2000,2000
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,22,July,2020,1800,1850,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,23,July,2020,1700,1700,1700
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,28,July,2020,1800,1800,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,29,July,2020,1700,1850,1850
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,30,July,2020,1700,2200,2200
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,31,July,2020,1800,1800,1800
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,5,June,2021,1550,1550,1550
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,9,June,2021,1500,1700,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,10,June,2021,1500,1680,1600
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,14,June,2021,1500,1700,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,21,June,2021,1680,1680,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,22,June,2021,1500,1680,1500
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,23,June,2021,1500,1700,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,29,June,2021,1500,1700,1700
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,8,July,2021,1600,1700,1600
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,12,July,2021,1500,1700,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,16,July,2021,1600,1700,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,17,July,2021,1600,1700,1700
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,23,July,2021,1850,1850,1850
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,29,July,2021,1500,1700,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,30,July,2021,1600,1700,1680
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,31,July,2021,1650,1680,1650
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,14,June,2022,1600,2100,1900
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,15,June,2022,1600,1900,1900
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,16,June,2022,1600,2100,1900
+Paddy,Sanna Bhatta,Rabi,November-December,April-May,Mundagod,Uttara Kannada,16,August,2022,1850,1850,1850
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,6,November,2020,17000,28000,22000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,9,November,2020,17000,29000,21000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,13,November,2020,17000,29000,21000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,18,November,2020,17000,29000,25000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,19,November,2020,16000,23000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,20,November,2020,17000,23000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,21,November,2020,17000,22000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,30,November,2020,15000,24000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,18,November,2021,26000,26000,26000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,25,November,2021,27000,27500,27200
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,3,November,2022,25000,28000,27000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,10,November,2022,27000,29000,28000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,14,November,2022,25000,27000,26000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,21,November,2022,24000,26000,25000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,1,December,2020,16000,23000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,5,December,2020,17000,23000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,7,December,2020,21000,22100,21500
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,8,December,2020,17500,21000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,9,December,2020,18000,21000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,11,December,2020,17000,22000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,16,December,2020,18000,22000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,17,December,2020,17000,23000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,18,December,2020,17500,22500,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,22,December,2020,22600,29000,25000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,29,December,2020,18200,28000,20000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,30,December,2020,22000,29000,25000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,31,December,2020,19000,29000,21000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,1,December,2021,24000,28000,25000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,6,December,2021,25000,26000,25500
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,7,December,2021,26000,28000,27500
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,17,December,2021,26000,29000,27500
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,22,December,2021,29000,29500,29200
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,24,December,2021,25720,29500,28000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,27,December,2021,26000,29000,28000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,9,December,2022,25000,29500,26000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,16,December,2022,24000,25000,24500
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,20,December,2022,24000,26000,25000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,27,December,2022,24000,26000,25000
+Arecanut,Coca,Monsoon,June-September,November-January,Belthangadi,Dakshina Kannada,31,December,2022,23000,24000,23500
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,3,November,2020,33600,39691,39119
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,5,November,2020,34000,39300,38600
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,13,November,2020,34000,40300,37500
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,18,November,2020,39700,39700,39700
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,19,November,2020,37599,40219,39869
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,21,November,2020,34000,39500,36750
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,30,November,2020,38900,40319,39869
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,9,November,2021,47299,50368,48489
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,24,November,2021,48569,50169,49399
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,30,November,2021,44839,21289,49399
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,5,November,2022,40000,51000,48000
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,7,November,2022,49199,51599,50798
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,8,November,2022,48610,50599,49740
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,14,November,2022,49199,51599,50798
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,18,November,2022,48610,50599,49740
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,22,November,2022,45210,50799,49306
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,29,November,2022,46690,52699,49445
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,1,December,2020,34000,40300,37150
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,2,December,2020,39800,39800,39800
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,4,December,2020,34000,40300,37150
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,8,December,2020,40379,41021,40509
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,15,December,2020,40379,41021,40509
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,16,December,2020,40419,40519,40469
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,21,December,2020,39119,43789,41349
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,22,December,2020,34000,41389,40800
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,23,December,2020,41389,41389,41389
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,28,December,2020,42099,42701,42399
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,30,December,2020,42399,42409,42404
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,31,December,2020,34000,42000,38000
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,1,December,2021,40000,48000,46000
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,3,December,2021,45019,45019,45019
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,7,December,2021,49366,52399,51399
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,10,December,2021,40000,48000,47499
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,14,December,2021,49609,50566,50419
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,20,December,2021,40000,48000,46000
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,21,December,2021,40000,48000,47499
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,24,December,2021,40000,50000,48700
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,28,December,2021,46499,53159,50019
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,6,December,2022,48299,50110,49523
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,7,December,2022,40000,47500,43750
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,10,December,2022,48366,49166,48899
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,14,December,2022,48390,49799,49218
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,15,December,2022,40000,47500,43750
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,16,December,2022,40000,46500,43000
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,20,December,2022,43689,47190,46041
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,26,December,2022,47699,50899,49735
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,27,December,2022,47119,49190,48160
+Arecanut,Bette,Monsoon,June-September,November-January,Koppa,Chikkamagaluru,30,December,2022,47699,50899,49735
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,5,October,2020,3029,5662,4317
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,7,October,2020,2549,5612,4121
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,9,October,2020,1909,5702,3930
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,12,October,2020,1505,5769,4434
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,14,October,2020,1468,5869,4090
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,16,October,2020,3139,5789,4034
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,19,October,2020,3500,6989,4128
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,21,October,2020,2226,5850,4085
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,23,October,2020,2289,6012,4007
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,28,October,2020,2589,5779,4290
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,1,October,2021,3744,7529,5741
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,4,October,2021,3609,7716,6113
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,8,October,2021,3489,9009,6015
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,11,October,2021,3489,7932,5875
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,13,October,2021,3889,8106,5814
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,18,October,2021,3649,7475,5592
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,22,October,2021,3409,7269,5200
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,25,October,2021,3500,7272,5314
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,27,October,2021,2489,7299,5399
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,29,October,2021,2289,7386,5593
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,3,October,2022,3002,7499,5614
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,7,October,2022,3091,7889,5869
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,10,October,2022,4000,8022,5920
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,12,October,2022,4455,7912,6002
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,14,October,2022,3089,7899,6075
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,17,October,2022,4000,7912,5935
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,19,October,2022,3689,7922,5800
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,21,October,2022,3849,7489,5626
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,28,October,2022,3149,7699,5762
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,31,October,2022,3200,7739,6012
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,2,November,2020,2030,6509,4051
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,4,November,2020,2839,6542,3935
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,6,November,2020,1815,5732,3915
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,9,November,2020,3089,6381,4087
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,11,November,2020,2509,5862,4182
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,13,November,2020,2800,6989,4314
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,18,November,2020,2800,6989,4314
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,20,November,2020,2600,6369,4578
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,23,November,2020,2100,6162,4730
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,25,November,2020,2619,5895,4707
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,27,November,2020,2768,6012,4798
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,2,November,2021,2089,7189,5307
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,8,November,2021,2049,7220,4994
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,10,November,2021,2500,7069,4725
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,12,November,2021,2569,6519,5125
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,15,November,2021,2469,6899,4952
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,17,November,2021,2009,6862,4985
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,19,November,2021,2619,6812,5410
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,23,November,2021,3089,7049,5412
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,24,November,2021,3889,6459,5522
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,26,November,2021,2600,7126,5561
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,29,November,2021,2759,7292,5820
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,2,November,2022,4289,7712,6085
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,4,November,2022,3001,7719,6008
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,7,November,2022,2600,7772,6202
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,9,November,2022,3400,6199,4689
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,14,November,2022,3089,7661,6180
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,16,November,2022,3200,7259,6323
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,18,November,2022,3089,7889,6507
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,21,November,2022,3059,7389,6686
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,23,November,2022,3609,7701,6692
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,25,November,2022,3700,7906,6808
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,28,November,2022,2009,7880,6750
+Groundnut,Gejje,Kharif ,June-July,September-October,Challakere,Chitradurga,30,November,2022,3200,7839,6563
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,3,March,2020,2729,6559,5803
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,6,March,2020,3883,7059,6411
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,10,March,2020,2559,6831,6158
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,13,March,2020,3632,6389,5436
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,17,March,2020,3589,5852,5183
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,20,March,2020,2766,5889,5316
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,2,March,2021,4009,7078,6742
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,5,March,2021,3669,7189,6516
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,9,March,2021,5628,6378,6123
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,12,March,2021,3019,7189,6602
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,16,March,2021,3200,7369,6853
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,19,March,2021,4449,7319,6553
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,23,March,2021,3176,6789,6119
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,26,March,2021,2869,6429,5758
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,30,March,2021,2070,6609,5790
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,4,March,2022,4069,7001,6463
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,8,March,2022,3869,6939,6390
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,11,March,2022,4449,7089,6636
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,15,March,2022,3589,7049,3279
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,18,March,2022,4109,6859,6111
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,22,March,2022,3009,6749,6132
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,25,March,2022,3009,6750,6136
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,29,March,2022,3109,6541,5781
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,2,April,2020,3521,3547,3534
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,4,April,2020,3440,3680,3500
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,7,April,2020,3660,3920,3750
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,9,April,2020,5500,5500,5500
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,11,April,2020,2980,6189,5621
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,13,April,2020,2559,6009,5644
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,15,April,2020,3069,6057,5619
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,16,April,2020,2669,6209,5711
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,17,April,2020,3000,6230,5727
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,18,April,2020,3919,6250,5851
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,20,April,2020,2110,6130,5565
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,21,April,2020,2500,6080,5380
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,22,April,2020,4092,5869,5257
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,23,April,2020,3470,5760,5377
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,24,April,2020,3070,5840,5277
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,25,April,2020,3669,5670,5093
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,27,April,2020,4012,5721,5168
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,28,April,2020,3822,5650,4994
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,29,April,2020,3570,5610,5176
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,30,April,2020,2269,5553,5016
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,2,April,2021,3067,6729,5998
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,6,April,2021,3040,6229,5411
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,9,April,2021,2811,6066,5175
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,16,April,2021,3019,6129,5347
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,20,April,2021,3669,6089,5223
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,23,April,2021,3460,6050,5240
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,26,April,2021,3799,6089,5298
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,27,April,2021,3601,6129,5236
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,29,April,2021,3709,6089,5239
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,1,April,2022,2609,6505,5601
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,5,April,2022,3669,6389,5695
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,8,April,2022,3019,6605,5835
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,12,April,2022,2401,6559,5848
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,19,April,2022,3609,6669,6024
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,22,April,2022,3069,6669,5899
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,26,April,2022,1509,6911,5930
+Groundnut,Natte,Rabi,October-November,January-February,Kottur,Ballari,29,April,2022,2509,6549,5965
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,2,November,2020,3180,5211,4528
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,3,November,2020,1611,5049,4553
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,4,November,2020,2005,5203,4618
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,5,November,2020,1000,5209,4773
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,6,November,2020,800,5300,4847
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,7,November,2020,2005,5329,4903
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,9,November,2020,1200,5360,5020
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,10,November,2020,1005,5501,5069
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,11,November,2020,2005,5501,5058
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,12,November,2020,2109,5456,5083
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,17,November,2020,800,5456,5133
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,18,November,2020,2205,5529,5180
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,19,November,2020,1777,5570,5302
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,20,November,2020,1577,5659,5390
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,21,November,2020,1500,5729,5456
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,23,November,2020,2000,5989,5628
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,24,November,2020,3337,5988,5656
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,25,November,2020,1000,5909,5615
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,26,November,2020,1305,5917,5546
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,27,November,2020,1000,5869,5506
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,30,November,2020,1000,5909,5373
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,2,November,2021,6845,9051,8885
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,6,November,2021,1111,8809,8641
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,8,November,2021,1500,8759,8498
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,9,November,2021,4688,8771,8418
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,10,November,2021,3005,8604,8275
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,11,November,2021,1002,8909,8180
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,12,November,2021,4005,8475,8077
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,15,November,2021,3500,8689,7944
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,16,November,2021,5028,8566,7802
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,17,November,2021,5045,8189,7725
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,18,November,2021,2005,8105,7566
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,19,November,2021,2700,8020,7600
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,20,November,2021,1905,8420,7678
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,23,November,2021,4065,8529,8126
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,24,November,2021,4009,8639,8203
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,25,November,2021,1105,8690,8302
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,26,November,2021,3333,8759,8436
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,29,November,2021,4009,8669,8062
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,30,November,2021,5505,8690,8020
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,2,November,2022,3001,9412,8458
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,3,November,2022,5001,9393,8702
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,4,November,2022,1105,9385,8709
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,5,November,2022,1119,9269,8921
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,7,November,2022,2019,9930,9198
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,8,November,2022,3069,9559,9212
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,9,November,2022,2015,9990,9102
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,10,November,2022,5800,9888,9060
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,14,November,2022,2507,9789,9492
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,15,November,2022,2019,9932,9413
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,16,November,2022,3119,9815,9425
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,17,November,2022,1500,9679,9380
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,18,November,2022,2709,9521,9233
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,19,November,2022,2009,9494,9026
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,21,November,2022,2006,9335,8790
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,22,November,2022,1015,9339,8618
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,23,November,2022,2035,9096,8773
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,24,November,2022,1209,9777,8969
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,25,November,2022,1119,9979,9161
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,28,November,2022,4095,9459,9135
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,29,November,2022,3335,9795,9087
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,30,November,2022,2005,9289,9022
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,1,December,2020,1000,5814,5260
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,2,December,2020,3005,5730,5236
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,4,December,2020,1010,5706,5174
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,5,December,2020,2005,5709,5177
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,7,December,2020,1000,5660,5115
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,8,December,2020,1000,5683,5100
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,9,December,2020,1007,5694,5147
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,10,December,2020,1000,5980,5156
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,11,December,2020,1805,5802,5261
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,14,December,2020,3027,5870,5261
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,15,December,2020,558,5874,5315
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,16,December,2020,1000,6010,5401
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,24,December,2020,500,5860,5284
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,28,December,2020,3305,5849,5309
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,29,December,2020,777,5842,5326
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,30,December,2020,1105,5970,5317
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,31,December,2020,1115,5850,5344
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,1,December,2021,3009,8689,7940
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,2,December,2021,5001,8693,7880
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,3,December,2021,6385,8797,7912
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,4,December,2021,5665,8599,7974
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,6,December,2021,2337,8719,8083
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,7,December,2021,3337,8989,8255
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,8,December,2021,6061,9001,8283
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,9,December,2021,5085,8999,8300
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,10,December,2021,2005,8811,8258
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,13,December,2021,2000,8797,8129
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,14,December,2021,6005,8829,8150
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,15,December,2021,3580,8853,8225
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,16,December,2021,6015,8900,8229
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,17,December,2021,6062,8950,8417
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,18,December,2021,6065,8959,8399
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,20,December,2021,6005,8917,8368
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,21,December,2021,6889,8927,8349
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,22,December,2021,6805,8939,8319
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,23,December,2021,4000,9029,8434
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,24,December,2021,6522,9169,8503
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,27,December,2021,7405,9369,8760
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,28,December,2021,4000,9709,8978
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,29,December,2021,1005,10009,9095
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,30,December,2021,1105,9972,9184
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,31,December,2021,1205,10109,9351
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,1,December,2022,3009,9389,9042
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,2,December,2022,3009,9361,9023
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,3,December,2022,2582,9233,8834
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,5,December,2022,1009,9662,8655
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,6,December,2022,2005,9626,8578
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,7,December,2022,1005,8929,8578
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,8,December,2022,3015,8939,8570
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,9,December,2022,1019,8919,8551
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,12,December,2022,2029,8889,8567
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,13,December,2022,3005,8907,8654
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,14,December,2022,2222,8995,8648
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,15,December,2022,3339,8969,8658
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,16,December,2022,4047,8993,8614
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,17,December,2022,3339,8849,8515
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,20,December,2022,2005,8609,8175
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,21,December,2022,2119,8585,8215
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,22,December,2022,509,9429,8242
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,26,December,2022,2005,8039,7559
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,27,December,2022,1027,8003,7475
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,28,December,2022,2015,8085,7520
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,29,December,2022,2015,8736,7642
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,30,December,2022,3015,8289,7894
+Cotton,Bunny,Kharif,June-July,October-November,Vijaypura,Vijayapura,31,December,2022,1009,8689,8081
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,1,June,2020,1000,4000,3568
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,2,June,2020,3250,3511,3434
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,3,June,2020,2756,3066,2911
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,4,June,2020,3272,4069,3639
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,5,June,2020,3265,3800,3711
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,8,June,2020,3209,4310,3829
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,11,June,2020,3066,4313,3933
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,12,June,2020,4070,4070,4070
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,15,June,2020,2900,4515,4090
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,16,June,2020,4242,4242,4242
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,18,June,2020,3363,4464,4134
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,20,June,2020,3450,3450,3450
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,24,June,2020,3869,3869,3869
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,25,June,2020,3414,4240,4030
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,29,June,2020,2679,4190,3906
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,30,June,2020,3571,3571,3571
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,14,June,2021,4500,4500,4500
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,17,June,2021,5000,5252,5107
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,18,June,2021,5000,5169,5084
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,21,June,2021,3000,4969,4794
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,24,June,2021,4040,5343,4738
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,2,June,2022,3030,9868,6962
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,6,June,2022,3262,11011,7801
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,13,June,2022,6171,10910,8731
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,16,June,2022,5666,7123,6555
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,20,June,2022,3350,9809,7179
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,27,June,2022,6234,6567,6438
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,30,June,2022,6896,9234,8766
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,2,July,2020,3450,4140,3863
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,3,July,2020,3800,3800,3800
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,6,July,2020,2501,3970,3822
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,9,July,2020,3439,3970,3752
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,13,July,2020,2756,3910,3732
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,16,July,2020,2386,4269,3672
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,5,July,2021,4769,5513,5334
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,8,July,2021,4689,5785,5608
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,26,July,2021,5676,6300,6001
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,29,July,2021,5770,5960,5865
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,4,July,2022,6666,9242,8103
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,7,July,2022,8509,8606,8561
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,11,July,2022,3029,7579,6025
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,14,July,2022,7382,7382,7382
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,18,July,2022,6363,7809,7400
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,21,July,2022,2101,7767,6466
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,25,July,2022,3200,8535,7615
+Cotton,BT,Rabi,November-December,April-May,Kottur,Ballari,28,July,2022,7626,9359,8495
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,1,April,2020,800,1000,1000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,4,April,2020,300,600,533
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,7,April,2020,400,600,450
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,8,April,2020,320,462,400
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,15,April,2020,330,734,528
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,22,April,2020,338,668,526
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,29,April,2020,600,800,800
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,30,April,2020,372,1200,746
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,7,April,2021,755,1856,1364
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,15,April,2021,1000,1460,1000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,21,April,2021,800,1500,1200
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,28,April,2021,1020,1600,1200
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,6,April,2022,500,1420,800
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,13,April,2022,500,1400,600
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,20,April,2022,1050,2500,2000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,21,April,2022,2565,2565,2565
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,27,April,2022,3200,5500,4545
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,6,May,2020,800,1100,1000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,5,May,2021,500,600,600
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,12,May,2021,800,1100,1000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,19,May,2021,350,700,645
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,26,May,2021,728,1450,780
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,4,May,2022,2000,2174,2000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,11,May,2022,5000,6000,5100
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,18,May,2022,4000,5200,5000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,25,May,2022,4100,7900,6000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,26,May,2022,10000,10000,10000
+Tomato,Arka Rakshak,Winter,November-December,February-March,Hassan,Hassan,27,May,2022,10000,10000,10000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,1,July,2020,1000,1600,1500
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,2,July,2020,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,9,July,2020,1200,1200,1200
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,15,July,2020,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,18,July,2020,2000,2000,2000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,19,July,2020,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,22,July,2020,1600,2000,1600
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,29,July,2020,1000,2000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,1,July,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,4,July,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,5,July,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,8,July,2021,800,1000,800
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,15,July,2021,600,600,600
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,22,July,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,29,July,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,31,July,2021,800,800,800
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,10,July,2022,2000,2000,2000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,21,July,2022,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,4,August,2020,800,800,800
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,19,August,2020,1000,2000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,26,August,2020,2000,2000,2000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,30,August,2020,2850,2850,2850
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,12,August,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,15,August,2021,600,600,600
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,18,August,2021,800,1000,800
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,19,August,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,25,August,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,26,August,2021,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,29,August,2021,800,800,800
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,3,August,2022,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,21,August,2022,1000,1000,1000
+Tomato,Arka Abhay,Summer,February-March,May-June,Belur,Hassan,25,August,2022,1000,1000,1000
